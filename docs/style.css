@@ -7,15 +7,16 @@ body {
 
 div.side-by-side {
     display: flex;
+
 }
 
 img {
-    width: 59%;
-    max-width: 500px;
+  width:20%;
+    max-width: 500px;  
+    
 }
-
 .featureBlock {
-    background-color:;
+    background-color:#9CAF88;
     font-size: smaller;
 }
 p  {
