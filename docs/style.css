@@ -2,7 +2,7 @@ body {
 
     /*background:papayaWhip*/
     background: #9CAF88;
-    font-family: italic,italic, italic, italic;
+    font-family: "Comic Sans MS", italic, italic, "Comic Sans MS";
 }
 
 div.side-by-side {
@@ -11,23 +11,43 @@ div.side-by-side {
 }
 
 img {
-  width:20%;
-    max-width: 500px;  
-    
+    width: 20%;
+    max-width: 500px;
+
 }
 .featureBlock {
-    background-color:#9CAF88;
+    background-color: #9CAF88;
     font-size: smaller;
 }
-p  {
- color:black;   
+p {
+    color: black;
 }
 
-h1  {
-    color:black;
+h1 {
+    color: black;
 }
 
-h2{
-  color:black;
+h2 {
+    color: black;
 }
+body {
+    border: 5px solid black;
+    margin: 20px;
+    padding: 10px;
+}
+
+
+
+figure.attendance-chart {
+    text-align: center;
+    margin: 20px auto;
+    max-width: 600px;
+}
+figure.attendance-chart img {
+    width: 80%;
+    max-width: 800px;
+}
+
+
+
 
