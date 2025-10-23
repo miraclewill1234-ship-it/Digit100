@@ -1,8 +1,11 @@
 body {
 
     /*background:papayaWhip*/
-    background: #9CAF88;
-    font-family: "Comic Sans MS", italic, italic, "Comic Sans MS";
+    background:limegreen;
+    font-family: "'Orbitron'", bold, bold, "'Orbitron'";
+}
+body {
+background: linear-gradient(160deg, #1a1a1a, #2e2e2e, #4d4d4d);
 }
 
 div.side-by-side {
@@ -20,15 +23,15 @@ img {
     font-size: smaller;
 }
 p {
-    color: black;
+    color: pink;
 }
 
 h1 {
-    color: black;
+    color: pink;
 }
 
 h2 {
-    color: black;
+    color: pink;
 }
 body {
     border: 5px solid black;
