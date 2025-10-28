@@ -34,7 +34,7 @@ h2 {
     color: pink;
 }
 body {
-    border: 5px solid black;
+    border: 5px solid pink ;
     margin: 20px;
     padding: 10px;
 }
@@ -51,6 +51,62 @@ figure.attendance-chart img {
     max-width: 800px;
 }
 
+h3 {
+  color: pink;  
+}
+
+.fade-in {
+  animation: fadeIn 10s ease-in-out;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity:1 ; }
+}
+.fade-in:nth-of-type(1) { animation-delay: 1s; }
+.fade-in:nth-of-type(2) { animation-delay: 1.5s; }
+.fade-in:nth-of-type(3) { animation-delay: 1s; }
+.fade-in:nth-of-type(4) { animation-delay: 1.5s; }
+
+.fade-in {
+  opacity: 0;
+  animation: fadeIn 2s ease-in forwards;
+}
 
 
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
 
+
+.fade-in:nth-of-type(1) { animation-delay: 1s; }
+.fade-in:nth-of-type(2) { animation-delay: 1.5s; }
+.fade-in:nth-of-type(3) { animation-delay: 1s; }
+.fade-in:nth-of-type(4) { animation-delay: 1.5s; }
+
+img.fade-in {
+  animation-delay: 10s;
+}
+.project {
+  text-align: center;
+  padding: 40px 20px;
+}
+
+.center-image {
+  display: block;
+  margin: 20px auto;
+  width: 60%; /* adjust as needed */
+  border-radius: 12px;
+}
+
+
+.fade-in {
+  opacity: 0;
+  animation: fadeIn 2s ease-in forwards;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
