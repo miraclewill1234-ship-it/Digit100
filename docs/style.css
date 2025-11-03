@@ -1,11 +1,11 @@
 body {
 
-    /*background:papayaWhip*/
-    background:limegreen;
+   
+    background:linear-gradient(135deg, #ffe6f9 0%, #ffb6e9 50%, #ff82d1 100%);
     font-family: "'Orbitron'", bold, bold, "'Orbitron'";
 }
 body {
-background: linear-gradient(160deg, #1a1a1a, #2e2e2e, #4d4d4d);
+background: linear-gradient(135deg, #3a3a3a 0%, #2b2b2b 40%, #1a1a1a 70%, #000000 100%);
 }
 
 div.side-by-side {
@@ -109,4 +109,93 @@ img.fade-in {
 @keyframes fadeIn {
   from { opacity: 0; }
   to { opacity: 1; }
+}
+
+p {
+  color:pink;
+
+ }
+
+h1 {
+  font-size: 300%;
+   text-align: left;
+ }
+ 
+.title {
+  font-family: 'Orbitron', sans-serif;
+  font-weight: 900;
+  font-size: 4rem;
+  text-align: center;
+  
+  /* black gradient text */
+  background: linear-gradient(135deg, #222, #555, #000);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  
+  /* 3D layered shadow for depth */
+  text-shadow:
+    2px 2px 0 #111,
+    4px 4px 0 #000,
+    6px 6px 0 pink;
+  
+  /* gentle floating movement */
+  animation: floatTitle 3s ease-in-out infinite;
+}
+
+/* floating effect */
+@keyframes floatTitle {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-8px);
+  }
+}
+
+
+.title-pink {
+  font-family: 'Orbitron', sans-serif;
+  font-weight: 900;
+  font-size: 6rem;       /* large homepage title */
+  text-align: center;
+
+  /* light pink text */
+  color: #ffc0cb;
+
+  /* 3D layered shadow for depth */
+  text-shadow:
+    2px 2px 2px rgba(255,182,193,0.7),  /* light pink shadow */
+    4px 4px 3px rgba(255,105,180,0.5),  /* hot pink shadow */
+    6px 6px 4px rgba(219,112,147,0.3);  /* deeper pink shadow */
+
+  /* subtle floating animation */
+  animation: floatTitle 3s ease-in-out infinite;
+}
+
+
+@keyframes floatTitle {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-8px); }
+}
+
+/* Light pink 3D text with shadow */
+.title-pink {
+  font-family: 'Orbitron', sans-serif;
+  font-weight: 900;
+  font-size: 6rem;       
+  text-align: center;
+
+  color: #ffc0cb;
+
+  text-shadow:
+    2px 2px 2px rgba(255,182,193,0.7),
+    4px 4px 3px rgba(255,182,193,0.5),
+    6px 6px 4px rgba(255,182,193,0.3);
+
+  animation: floatTitle 3s ease-in-out infinite;
+}
+
+@keyframes floatTitle {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-8px); }
 }
