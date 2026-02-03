@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<islands>
+    <island name="Raiatea" area="65" cy="80" r="30" fill="green"/>
+    <island name="Tongatapu" area="100" cy="200" r="50" fill="purple"/>
+    <island name="Tahiti" area="404" cy="360" r="80" fill="lightblue"/>
+</islands>
