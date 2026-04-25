@@ -1,0 +1,920 @@
+<xml> 
+<titlecard>Arthur Meets Mister Rogers</titlecard>
+Introduction
+<stage>Binky, Muffy, Prunella and Buster stand in front of the Sugar Bowl. Arthur comes running.</stage>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Hey, everyone, I have great... news.</dialogue>
+</line>
+
+<stage>Out of breath, he holds up two fingers.</stage>
+
+<line>
+  <speaker>Prunella</speaker>
+  <dialogue>Two things.</dialogue>
+</line>
+
+<group speaker="Kids"><action>What? What is it?</action> </group>
+
+<stage>Arthur sits down on a bench.</stage>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Mr. Rogers is coming to our school tomorrow.</dialogue>
+</line>
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>Wow! Really? Mr. Rogers? That's...</dialogue>
+</line>
+
+<line>
+  <speaker>Prunella</speaker>
+  <dialogue>A-hem!</dialogue>
+</line>
+
+<stage>Prunella and Muffy give Buster reproving looks.</stage>
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>What's the matter?</dialogue>
+</line>
+
+<line>
+  <speaker>Muffy</speaker>
+  <dialogue>Mr. Rogers? Do they think we’re babies, or something?</dialogue>
+</line>
+
+<line>
+  <speaker>Binky</speaker>
+  <dialogue><action>sarcastically:</action>  I adore Mr. Rogers. He starts dancing. “It’s a beautiful day in the neighborhood.”</dialogue>
+</line>
+
+<line>
+  <speaker>Prunella</speaker>
+  <dialogue>What's the second thing, Arthur?</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Nothing! Never mind!</dialogue>
+</line>
+
+***
+
+<stage>At home, Arthur hangs up his coat. He walks sadly into the living room.</stage>
+
+<line>
+  <speaker>Mr. Rogers</speaker>
+  <dialogue>You look at little sad, Arthur.</dialogue>
+</line>
+
+<stage>Mr. Rogers and D.W. stand before him.</stage>
+
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>He always looks like that, even when you're staying with us, Mr. Rogers. Maybe we could sing a song and cheer him up!</dialogue>
+</line>
+
+<stage>Arthur backs away and blushes.</stage>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Ah... ah-ah... no. No no, it's all right.</dialogue>
+</line>
+
+
+
+ <titlecard>D.W. and Frog</titlecard>
+<stage>Mrs. Read is preparing sandwiches in the kitchen. Arthur sits at the table looking glum.</stage>
+
+<line>
+  <speaker>Mrs. Read</speaker>
+  <dialogue>Arthur, maybe you think you're too old for Mr. Rogers now, but remember how much you enjoyed him when you were D.W.’s age? So let’s be careful not to spoil it for her.</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>But…</dialogue>
+</line>
+
+<stage>D.W. comes in with Mr. Rogers.</stage>
+
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>So you mean my mom lived in your neighborhood when she was a kid, Mr. Rogers?</dialogue>
+</line>
+
+<stage>She pulls up a chair for him.</stage>
+
+<line>
+  <speaker>Mr. Rogers</speaker>
+  <dialogue>That’s right, D.W. I knew her when she was just about your age.</dialogue>
+</line>
+
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>Wow, that must have been a long time ago. Will you be living with us forever?</dialogue>
+</line>
+
+<line>
+  <speaker>Mr. Rogers</speaker>
+  <dialogue>Oh no. I have a family who wants me back home.</dialogue>
+</line>
+
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>When do you have to go?</dialogue>
+</line>
+
+<line>
+  <speaker>Mr. Rogers</speaker>
+  <dialogue>Tomorrow, after I visit Arthur’s school.</dialogue>
+</line>
+
+***
+
+<stage>D.W. sits on the stairs while Arthur paces around.</stage>
+
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>What's the point of having Mr. Rogers stay at your house…</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Shh!</dialogue>
+</line>
+
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>…if you don't tell anybody.</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Because we don't want everybody coming over here, banging on the door and asking for lots of autographs. </dialogue>
+</line>
+
+<stage>He fiddles with his glasses.</stage>
+
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>You’re doing that thing with your glasses that you do when you fib.</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>What thing with my...</dialogue>
+</line>
+
+<stage>He puts his hands behind his back.</stage>
+
+<line>
+  <speaker>Mr. Rogers</speaker>
+  <dialogue>Arthur? D.W.?</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue><action>yells out in shock</action></dialogue>
+</line>
+
+<stage>Mr. Rogers comes with some postcards.</stage>
+
+<line>
+  <speaker>Mr. Rogers</speaker>
+  <dialogue>Could you tell me where the nearest mailbox is? I have some postcards I want to send to my friends.</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue><action>gulps</action></dialogue>
+</line>
+
+<stage>In his imagination, he sees Mr. Rogers leaving the house and walking down the street.</stage>
+
+<line>
+  <speaker>Mr. Rogers</speaker>
+  <dialogue><action>sings:</action> “It’s a beautiful day here at Arthur’s house, a neighborly stay here at Arthur’s. Would you be mine? Could you be mine? I…”</dialogue>
+</line>
+
+<stage>He passes Binky, Prunella and Muffy. They look after him.</stage>
+
+<group speaker="Kids"><action>laugh</action></group>
+
+<stage>The fantasy ends. D.W. leads Mr. Rogers to the door.</stage>
+
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>It's very easy, Mr. Rogers. </dialogue>
+</line>
+
+<stage>Arthur jumps in front of the door.</stage>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>No, no, it's not! It's hard, er, complicated! I'll do it!</dialogue>
+</line>
+
+<stage>He takes the postcards and puts on his coat.</stage>
+
+<line>
+  <speaker>Mr. Rogers</speaker>
+  <dialogue>Oh, thanks, Arthur, but I can mail them.</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>No, here, I’ve got them! You stay here, Mr. Rogers. I'll do it! He leaves the house, only to look in again. Just...stay...here!</dialogue>
+</line>
+
+<stage>Mr. Rogers looks confused.</stage>
+
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>He's like this all the time. You'll get used to it.</dialogue>
+</line>
+
+***
+
+<stage>Arthur walks down the street trying to hide his face with his coat. He does not pay attention and bumps into Prunella at the mailbox.</stage>
+
+<line>
+  <speaker>Prunella</speaker>
+  <dialogue>Whoa! Oops. Both fall down. Arthur picks up his glasses. Arthur! What are you...?</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Sorry. Sorry, er, er, just, er ... mailing a few postcards.</dialogue>
+</line>
+
+<stage>Prunella looks at a card.</stage>
+
+<line>
+  <speaker>Prunella</speaker>
+  <dialogue>Wait a minute! This can't be your postcard. It's signed “Fred”.</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Oh, that's because I'm, er, thinking of changing my name. That's right, and I'm, I'm sending out these postcards, er, to try out new names. Fred is just one. Do you like it? He drops the cards in the mailbox. How about Jasper? He walks quickly backwards. That's another one. Julius? </dialogue>
+</line>
+
+<stage>He runs off.</stage>
+
+<line>
+  <speaker>Prunella</speaker>
+  <dialogue>Uh...</dialogue>
+</line>
+
+***
+
+<stage>Arthur takes a jacket out of a wardrobe and puts it on.</stage>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue><action>hums “It’s a Beautiful Day in the Neighborhood”</action> What am I doing? He goes into the living room where Mr. Rogers is playing the tune on the piano. D.W. sits beside him.</dialogue>
+</line>
+
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>Yay!</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Wow, that was great!</dialogue>
+</line>
+
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>Arthur plays the piano, too. Show Mr. Rogers, Arthur.</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Uh, well...</dialogue>
+</line>
+
+<line>
+  <speaker>Mr. Rogers</speaker>
+  <dialogue>Maybe Arthur doesn't feel like doing it right now.</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Yeah, maybe later.</dialogue>
+</line>
+
+<stage>Mr. Rogers and D.W. stand up.</stage>
+
+<line>
+  <speaker>Mr. Rogers</speaker>
+  <dialogue>Maybe you could take me on that walk around your neighborhood now, D.W.</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue><action>yells out in fear</action> He hurriedly sits down at the piano. Wait! I feel like playing! I feel like playing the piano!</dialogue>
+</line>
+
+<stage>He starts playing Beethoven’s “Für Elise”.</stage>
+
+***
+
+<stage>A while later Arthur finishes. Mr. Rogers claps.</stage>
+
+<line>
+  <speaker>Mr. Rogers</speaker>
+  <dialogue>Very good, Arthur.</dialogue>
+</line>
+
+<stage>D.W. claps unenthusiastically.</stage>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Um, let me see. Did I play “The Happy Boat”?</dialogue>
+</line>
+
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>Four times.</dialogue>
+</line>
+
+<line>
+  <speaker>Mr. Rogers</speaker>
+  <dialogue>You could be a fine musician someday, Arthur.</dialogue>
+</line>
+
+D.W. takes Mr. Rogers' hand. 
+
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>Come on, Mr. Rogers. I'll show you around my neighborhood.</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Wait, I didn't play you my scales.</dialogue>
+</line>
+
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>Arthur, Mr. Rogers is going to die of boredom.</dialogue>
+</line>
+
+<line>
+  <speaker>Mr. Rogers</speaker>
+  <dialogue>I promised D.W. I'd let her take me around before it got too late. Maybe you'd like to come for a walk with us.</dialogue>
+</line>
+
+<stage>A thought bubble appears over Arthur’s head showing Binky and Prunella laughing.</stage>
+
+<group speaker="Binky+Punella"><action>laugh</action></group>
+
+<stage>The bubble disappears.</stage>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>You can't go!</dialogue>
+</line>
+
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>What??</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>I mean, what if, er... What if somebody recognizes you from the TV? They'll want autographs and... A disguise! That's it! I'll go get you a disguise!</dialogue>
+</line>
+
+<line>
+  <speaker>Mr. Rogers</speaker>
+  <dialogue>I don't think I need a disguise. But I get the idea you're not feeling good about something.</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Me? <action>laughs unconvincingly</action> Wait, I’ve a better idea!</dialogue>
+</line>
+
+***
+
+<stage>Mr. Rogers, Arthur and D.W. are at the park looking at the statue of a thinking man. Arthur and D.W. are wearing fake beards.</stage>
+
+<line>
+  <speaker>Mr. Rogers</speaker>
+  <dialogue>That certainly is a very impressive statue. He looks like he's about to say something very important.</dialogue>
+</line>
+
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue><action>sneezes</action> Arthur, this beard itches. Why do I have to wear it?</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>It's so nobody will see... He fiddles with his glasses. ...so Mr. Rogers can... so...</dialogue>
+</line>
+
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>You're touching your glasses again.</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue><action>gasps</action></dialogue>
+</line>
+
+<stage>He sees Buster and his mom putting shopping into their car.</stage>
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>Look, Mom, it's Mr. Rogers! And he's with two of the seven dwarfs! I'm gonna go see them!</dialogue>
+</line>
+
+<stage>He runs towards them. Arthur pulls Mr. Rogers away.</stage>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Come on, I want to show you something, Mr. Rogers! This way!</dialogue>
+</line>
+
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>Wait for... <action>sneezes</action> ...me!</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>It's right over... Augh!</dialogue>
+</line>
+
+<stage>He pulls Mr. Rogers around a street corner where Binky, Molly, Rattles and Kiefer are playing with a soccer ball.</stage>
+
+<line>
+  <speaker>Binky</speaker>
+  <dialogue><action>laughs</action></dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>This way, Mr. Rogers!</dialogue>
+</line>
+
+<stage>He pulls Mr. Rogers into an alley, which is full of trashcans.</stage>
+
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>Garbage?! You wanted to show Mr. Rogers people's garbage?!</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>No, uh...</dialogue>
+</line>
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>Mr. Rogers?? Is that really you?</dialogue>
+</line>
+
+<stage>Buster comes.</stage>
+
+<line>
+  <speaker>Mr. Rogers</speaker>
+  <dialogue>It certainly is. What's your name?</dialogue>
+</line>
+
+<stage>He holds out his hand.</stage>
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>I forget.</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Oh, brother.</dialogue>
+</line>
+
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue><action>sneezes</action></dialogue>
+</line>
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>How do you know Dopey and Sneezy?</dialogue>
+</line>
+
+***
+
+<stage>Arthur, Buster, D.W. and Mr. Rogers pass Jack’s Joke Shop.</stage>
+
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>Look, Mr. Rogers, the joke shop! And over there is where Grandma Thora parks her car when she goes to Bingo.</dialogue>
+</line>
+
+<stage>She and Mr. Rogers look in the joke shop’s window. Arthur talks to Buster.</stage>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>I know you can't keep a secret, but you can't tell anybody about Mr. Rogers staying at our house.</dialogue>
+</line>
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>I never tell secrets!...Hey, there's Prunella and the Brain!</dialogue>
+</line>
+
+<stage>He sees them in an ice-cream shop.</stage>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Where are you going?</dialogue>
+</line>
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>I wanna tell everybody about Mr.... Oh. Hey! You're right about me. I cannot keep a secret!</dialogue>
+</line>
+
+<stage>Brain, Prunella and Rubella sit inside the ice-cream shop.</stage>
+
+<line>
+  <speaker>Brain</speaker>
+  <dialogue>Arthur looks quite distinguished with facial hair.</dialogue>
+</line>
+
+<line>
+  <speaker>Prunella</speaker>
+  <dialogue>He's been acting weird like that all day. He wanted me to call him Fred.</dialogue>
+</line>
+
+<line>
+  <speaker>Brain</speaker>
+  <dialogue>Plainly, Arthur's suffering from a form of psychological stress brought on by too much homework. The same thing even happens to me sometimes.</dialogue>
+</line>
+
+<line>
+  <speaker>Rubella</speaker>
+  <dialogue>No. No, that's not it. </dialogue>
+</line>
+
+<stage>She closes her eyes and holds her hands to her temples.</stage>
+
+<line>
+  <speaker>Prunella</speaker>
+  <dialogue>What is it, Rubella? Do you see something?</dialogue>
+</line>
+
+<line>
+  <speaker>Rubella</speaker>
+  <dialogue>It's just as I feared: Zombies! Zombies are here in Elwood City!</dialogue>
+</line>
+
+<line>
+  <speaker>Brain</speaker>
+  <dialogue>Oh no, I don't think...</dialogue>
+</line>
+
+<line>
+  <speaker>Rubella</speaker>
+  <dialogue>Hush!</dialogue>
+</line>
+
+<line>
+  <speaker>Prunella</speaker>
+  <dialogue>Hush, Brain!</dialogue>
+</line>
+
+<line>
+  <speaker>Rubella</speaker>
+  <dialogue>Your friend Arthur is under a hypnotic spell. It's up to us to break the trance, before he turns us all into... zombie slaves.</dialogue>
+</line>
+
+<stage>Prunella looks at Brain, who shrugs.</stage>
+
+***
+
+<stage>The Read family, Buster and Mr. Rogers are sitting at the dinner table.</stage>
+
+<line>
+  <speaker>Mr. Rogers</speaker>
+  <dialogue>It all looks so good, David. Would you like a roll, Buster?</dialogue>
+</line>
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>Mr. Rogers, does King Friday ever get in the trolley and come out to see you?</dialogue>
+</line>
+
+<line>
+  <speaker>D.W.</speaker>
+  <dialogue>Oh, brother.</dialogue>
+</line>
+
+<line>
+  <speaker>Mr. Rogers</speaker>
+  <dialogue>King Friday usually stays in Make-Believe, Buster. Except when he flies in the purple jet.</dialogue>
+</line>
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>Wow! What about Daniel Striped Tiger?</dialogue>
+</line>
+
+<stage>Rubella, Prunella and Brain are watching them through the window.</stage>
+
+<line>
+  <speaker>Rubella</speaker>
+  <dialogue>Just look at that drooling, idiotic look on that face! They've done something with his brain!</dialogue>
+</line>
+
+<line>
+  <speaker>Prunella</speaker>
+  <dialogue>I don't know, Rubella. Buster kind of always looks that way.</dialogue>
+</line>
+
+<line>
+  <speaker>Rubella</speaker>
+  <dialogue>If we don't do something soon, we'll all be....</dialogue>
+</line>
+
+<stage>She holds her arms out, zombie-like.</stage>
+
+<line>
+  <speaker>Brain</speaker>
+  <dialogue>You're both acting silly. It's very simple, and I'll prove it to you. I'll just ask Arthur if he needs help with homework. You watch!</dialogue>
+</line>
+
+<stage>Arthur has opened the door for Brain.</stage>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>No, go away. I mean, thank you. But if I need any help with homework, Buster's here. Bye.</dialogue>
+</line>
+
+<stage>He closes the door. Brain stands frozen.</stage>
+
+<line>
+  <speaker>Prunella</speaker>
+  <dialogue>Buster?? Helping with homework?? What kind of idiots do those zombies take us for?</dialogue>
+</line>
+
+<line>
+  <speaker>Rubella</speaker>
+  <dialogue>We have to take quick action if we’re going to save your friends.</dialogue>
+</line>
+
+<stage>Brain nods.</stage>
+
+<stage>Inside, Buster is dancing.</stage>
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>And then there was this one time on your show, you learned to dance. And I learned it, too.</dialogue>
+</line>
+
+<line>
+  <speaker>Mr. Rogers</speaker>
+  <dialogue>Wow, you remembered that really well, Buster.</dialogue>
+</line>
+
+<line>
+  <speaker>Rubella</speaker>
+  <dialogue>Soon we'll all be making fools of ourselves for their stupid zombie entertainment!</dialogue>
+</line>
+
+<stage>Arthur comes to the window.</stage>
+
+<line>
+  <speaker>Prunella</speaker>
+  <dialogue>Eek!</dialogue>
+</line>
+
+<stage>Rubella, Prunella and Brain bow low.</stage>
+
+<stage>Arthur closes the curtains.</stage>
+
+<line>
+  <speaker>Mr. Rogers</speaker>
+  <dialogue>You know, Arthur. I wonder if we could talk a little. Sometimes, if I'm feeling embarrassed about something...</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue><action>yells out in fear</action> Excuse me!</dialogue>
+</line>
+
+<stage>He notices Rubella, who is kneeling on Prunella’s and Brain’s shoulders.</stage>
+
+<line>
+  <speaker>Rubella</speaker>
+  <dialogue>Down! Down! Prunella and Brain lie down. Rubella topples backwards. Whoops!</dialogue>
+</line>
+
+<stage>Arthur lets down the blinds.</stage>
+
+<line>
+  <speaker>Rubella</speaker>
+  <dialogue>Quickly, we must find another window!</dialogue>
+</line>
+
+<stage>As they sneak around the house, Mrs. Tibble watches them through binoculars. She is wearing a shirt saying “Crime Watch”.</stage>
+
+<line>
+  <speaker>Mrs. Tibble</speaker>
+  <dialogue>I know, Grace. I said the same thing to Tommy just the other...   Wait a minute! What have we here? Oh my gosh, Grace! Burglars at the Read house! Gotta go!</dialogue>
+</line>
+
+<stage>She hangs up, then dials 911.</stage>
+
+***
+
+<stage>Arthur walks upstairs to D.W.’s room where Mr. Rogers is singing “Please Don’t Think It’s Funny”.</stage>
+
+<line>
+  <speaker>Mr. Rogers</speaker>
+  <dialogue><action>sings:</action> “In the long, long trip of growing / there are stops along the way / for thoughts of all the soft things / and a look at yesterday.”</dialogue>
+</line>
+
+<stage>D.W. lies on her bed listening. Buster kneels beside the bed looking thoroughly entranced. Arthur drags him out of the room.</stage>
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>Aw! He was just getting to the good part!</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>You can go home now, Buster, but remember, you can't tell... Are those sirens?</dialogue>
+</line>
+
+<line>
+  <speaker>Buster</speaker>
+  <dialogue>Sounds like they're right outside.</dialogue>
+</line>
+
+<stage>Three police cars stop outside the Read house.</stage>
+
+***
+
+<stage>On a TV screen a reporter is showing footage from the Read house.</stage>
+
+<line>
+  <speaker>Reporter</speaker>
+  <dialogue>It was a strange day in the neighborhood when Mr. Rogers came for a visit. Mr. Rogers comes out of the house and waves. Neighbors and journalists are gathered. The suspicious goings-on turned out to be nothing more than a visit from an old friend of the family.</dialogue>
+</line>
+
+<stage>Mr. and Mrs. Read are watching TV from the couch.</stage>
+
+***
+
+<stage>Arthur sits on the swings in the Reads’ garden. Mr. Rogers comes.</stage>
+
+<line>
+  <speaker>Mr. Rogers</speaker>
+  <dialogue>I wondered where you were hiding, Arthur.</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>I think maybe I'm sick. In fact, I may be too sick to go to school tomorrow... or even ever again.</dialogue>
+</line>
+
+<stage>Mr. Rogers sits down on the swing beside Arthur.</stage>
+
+<line>
+  <speaker>Mr. Rogers</speaker>
+  <dialogue>You know, if I'm feeling mad or sad or glad about something, I try to tell somebody about it.</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>I just don't want everyone to think I'm a... that I like... I mean...</dialogue>
+</line>
+
+<line>
+  <speaker>Mr. Rogers</speaker>
+  <dialogue>You don't want them to think you're a little kid anymore.</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Yeah... I mean, no offense.</dialogue>
+</line>
+
+<line>
+  <speaker>Mr. Rogers</speaker>
+  <dialogue>Sometimes you feel like you're too old for certain things.</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>I just don't want people to make fun of me.</dialogue>
+</line>
+
+<line>
+  <speaker>Mr. Rogers</speaker>
+  <dialogue>Real friends don't make fun of real friends. And your friends seem like real friends. They all seem to be concerned about you.</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Well, at least nobody in my class watches the news.</dialogue>
+</line>
+
+***
+
+<stage>In the classroom Arthur is surrounded by his classmates.</stage>
+
+<line>
+  <speaker>Muffy</speaker>
+  <dialogue>Arthur, your house was on TV last night. I have a tape if anyone didn't see it.</dialogue>
+</line>
+
+<line>
+  <speaker>Sue Ellen</speaker>
+  <dialogue>Did Mr. Rogers really stay with you?</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Well...</dialogue>
+</line>
+
+<line>
+  <speaker>Brain</speaker>
+  <dialogue>Did he change his shoes whenever he came in?</dialogue>
+</line>
+
+<line>
+  <speaker>Muffy</speaker>
+  <dialogue>Did he bring Picture Picture?</dialogue>
+</line>
+
+<line>
+  <speaker>Binky</speaker>
+  <dialogue>Mr. Rogers? He's just for babies. <action>sings:</action> “It’s a beautiful day in the neighborhood / a lovely day for a neighbor…” He turns around to find Mr. Rogers and Mr. Ratburn standing behind him. M-m-m-m-mi-mi-mis...</dialogue>
+</line>
+
+<line>
+  <speaker>Mr. Rogers</speaker>
+  <dialogue>You must be Binky Barnes. Arthur's told me about you.</dialogue>
+</line>
+
+<stage>He holds out his hand.</stage>
+
+<line>
+  <speaker>Binky</speaker>
+  <dialogue>He did? I mean, uh... Can I have your autograph?</dialogue>
+</line>
+
+<group speaker="Class"><action>giggle</action></group>
+
+***
+
+<stage>Mr. Rogers is standing in front of the class.</stage>
+
+<line>
+  <speaker>Mr. Rogers</speaker>
+  <dialogue>And I just want to say how much I’ve enjoyed my time here in Elwood City. Now, does anybody have anything to ask or tell me?</dialogue>
+</line>
+
+<line>
+  <speaker>Binky</speaker>
+  <dialogue>Mr. Rogers, did you really stay at Arthur's house yesterday?</dialogue>
+</line>
+
+<line>
+  <speaker>Mr. Rogers</speaker>
+  <dialogue>I think Arthur can answer that, Binky.</dialogue>
+</line>
+
+<stage>Arthur fiddles with his glasses.</stage>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Well, that is... uh... I mean... Yes, Binky, he did.</dialogue>
+</line>
+
+<line>
+  <speaker>Binky</speaker>
+  <dialogue>Wow! Can I have your autograph, too?</dialogue>
+</line>
+
+<line>
+  <speaker>Arthur</speaker>
+  <dialogue>Sure.</dialogue>
+</line>
+
+<stage>He looks at Mr. Rogers, who smiles.</stage>
+</xml>
