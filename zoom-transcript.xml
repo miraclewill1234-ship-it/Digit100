@@ -1,0 +1,1265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transcript>
+    <block>
+        <number>1</number>
+        <start-time>00:00:03,190</start-time>
+        <end-time>00:00:07,330</end-time>
+        <text>Greetings digit 210.</text>
+        <text>So at the end of class</text>
+    </block>
+<block>
+    <number>2</number>
+    <start-time>00:00:07,330</start-time>
+    <end-time>00:00:10,510</end-time>
+    <text>today on Friday January</text>
+    <text>30th I left us on a</text>
+</block>
+
+<block>
+    <number>3</number>
+    <start-time>00:00:10,510</start-time>
+    <end-time>00:00:13,250</end-time>
+    <text>bit of a cliffhanger</text>
+    <text>with a bit of broken</text>
+</block>
+    <block>
+        <number>4</number>
+        <start-time>00:00:13,250</start-time>
+        <end-time>00:00:15,990</end-time>
+        <text>code. Let me remind</text>
+        <text>you what we were trying</text>
+    </block>
+    <block>
+        <number>5</number>
+        <start-time>00:00:15,990</start-time>
+        <end-time>00:00:19,090</end-time>
+        <text>to do. I have now fixed</text>
+        <text>it so I'm going to</text>
+    </block>
+    
+    <block>
+        <number>6</number>
+        <start-time>00:00:19,090</start-time>
+        <end-time>00:00:22,830</end-time>
+        <text>show you the graph the</text>
+        <text>way I wanted to plot</text>
+    </block>
+    
+    <block>
+        <number>7</number>
+        <start-time>00:00:22,830</start-time>
+        <end-time>00:00:27,330</end-time>
+        <text>it. Here it is and</text>
+        <text>this is the number of</text>
+    </block>  
+    <block>
+        <number>8</number>
+        <start-time>00:00:27,330</start-time>
+        <end-time>00:00:31,880</end-time>
+        <text>speeches in each location</text>
+        <text>of the Dan to Dan</text>
+    </block>
+    
+    <block>
+        <number>9</number>
+        <start-time>00:00:31,880</start-time>
+        <end-time>00:00:34,950</end-time>
+        <text>episode that we were</text>
+        <text>looking at. And as you see,</text>
+    </block>
+    
+    <block>
+        <number>10</number>
+        <start-time>00:00:34,950</start-time>
+        <end-time>00:00:36,830</end-time>
+        <text>this is what I wanted</text>
+        <text>to do. I wanted to</text>
+    </block>
+    <block>
+        <number>11</number>
+        <start-time>00:00:36,830</start-time>
+        <end-time>00:00:39,510</end-time>
+        <text>put the location with</text>
+        <text>the most speeches at</text>
+    </block>
+    
+    <block>
+        <number>12</number>
+        <start-time>00:00:39,510</start-time>
+        <end-time>00:00:42,410</end-time>
+        <text>the bottom of the graph,</text>
+        <text>and then I could plot</text>
+    </block>
+    
+    <block>
+        <number>13</number>
+        <start-time>00:00:42,410</start-time>
+        <end-time>00:00:45,390</end-time>
+        <text>them in descending</text>
+        <text>order. So each one of</text>
+    </block>
+    
+    <block>
+        <number>14</number>
+        <start-time>00:00:45,390</start-time>
+        <end-time>00:00:47,890</end-time>
+        <text>these little wedges</text>
+        <text>gets smaller and smaller</text>
+    </block>
+    
+    <block>
+        <number>15</number>
+        <start-time>00:00:47,890</start-time>
+        <end-time>00:00:50,530</end-time>
+        <text>based on the number</text>
+        <text>of speeches. We go 49</text>
+    </block>
+    <block>
+        <number>16</number>
+        <start-time>00:00:50,530</start-time>
+        <end-time>00:00:55,590</end-time>
+        <text>to 33 to 24. so you see</text>
+        <text>how that works so how</text>
+    </block>
+    
+    <block>
+        <number>17</number>
+        <start-time>00:00:55,590</start-time>
+        <end-time>00:01:01,570</end-time>
+        <text>did I do that and put in xml</text>
+        <text>let me stop the share</text>
+    </block>
+    
+    <block>
+        <number>18</number>
+        <start-time>00:01:01,570</start-time>
+        <end-time>00:01:07,850</end-time>
+        <text>restart it switch to my</text>
+        <text>other desktop and here</text>
+    </block>
+    
+    <block>
+        <number>19</number>
+        <start-time>00:01:07,850</start-time>
+        <end-time>00:01:13,110</end-time>
+        <text>I think you can see</text>
+        <text>my code so previously</text>
+    </block>
+    
+    <block>
+        <number>20</number>
+        <start-time>00:01:13,110</start-time>
+        <end-time>00:01:17,070</end-time>
+        <text>we had been sort we</text>
+        <text>had been outputting a</text>
+    </block>
+    
+    <block>
+        <number>21</number>
+        <start-time>00:01:17,070</start-time>
+        <end-time>00:01:21,950</end-time>
+        <text>chunk of like a little</text>
+        <text>bar to stack based on</text>
+    </block>
+    
+    <block>
+        <number>22</number>
+        <start-time>00:01:21,950</start-time>
+        <end-time>00:01:25,610</end-time>
+        <text>these distinct values</text>
+        <text>of the where attributes</text>
+    </block>
+    
+    <block>
+        <number>23</number>
+        <start-time>00:01:25,610</start-time>
+        <end-time>00:01:29,650</end-time>
+        <text>on stage and previously</text>
+        <text>I had this little</text>
+    </block>
+    <block>
+        <number>24</number>
+        <start-time>00:01:29,650</start-time>
+        <end-time>00:01:33,170</end-time>
+        <text>expath sort what that</text>
+        <text>did is sort these</text>
+    </block>
+    
+    <block>
+        <number>25</number>
+        <start-time>00:01:33,170</start-time>
+        <end-time>00:01:36,590</end-time>
+        <text>distinct values the default put in xml</text>
+        <text>way and expath which</text>
+    </block>
+    
+    <block>
+        <number>26</number>
+        <start-time>00:01:36,590</start-time>
+        <end-time>00:01:39,270</end-time>
+        <text>is alphabetical order</text>
+        <text>and we decided that</text>
+    </block>
+    
+    <block>
+        <number>27</number>
+        <start-time>00:01:39,270</start-time>
+        <end-time>00:01:41,090</end-time>
+        <text>didn't really look so</text>
+        <text>good or make that much</text>
+    </block>
+    
+    <block>
+        <number>28</number>
+        <start-time>00:01:41,090</start-time>
+        <end-time>00:01:43,310</end-time>
+        <text>sense so we're gonna</text>
+        <text>do it a different way</text>
+    </block>
+    
+    <block>
+        <number>29</number>
+        <start-time>00:01:43,310</start-time>
+        <end-time>00:01:48,910</end-time>
+        <text>to fix things I</text>
+        <text>removed this sort and I</text>
+    </block>
+    
+    <block>
+        <number>30</number>
+        <start-time>00:01:48,910</start-time>
+        <end-time>00:01:54,730</end-time>
+        <text>created a new variable</text>
+        <text>down here that I'm going</text>
+    </block>
+    
+    <block>
+        <number>31</number>
+        <start-time>00:01:54,730</start-time>
+        <end-time>00:01:57,470</end-time>
+        <text>to take out a little</text>
+        <text>extra white space here</text>
+    </block>
+    
+    <block>
+        <number>32</number>
+        <start-time>00:01:57,920</start-time>
+        <end-time>00:02:03,210</end-time>
+        <text>I'm calling this one</text>
+        <text>sorted stage locations</text>
+    </block>
+    
+    <block>
+        <number>33</number>
+        <start-time>00:02:03,350</start-time>
+        <end-time>00:02:06,250</end-time>
+        <text>you saw me do this</text>
+        <text>earlier in class where</text>
+    </block>
+    
+    <block>
+        <number>34</number>
+        <start-time>00:02:06,250</start-time>
+        <end-time>00:02:10,030</end-time>
+        <text>I unpack a variable and</text>
+        <text>I go through things,</text>
+    </block>
+    
+    <block>
+        <number>35</number>
+        <start-time>00:02:10,030</start-time>
+        <end-time>00:02:12,470</end-time>
+        <text>this is going to make</text>
+        <text>a series of strings.</text>
+    </block>
+    
+    <block>
+        <number>36</number>
+        <start-time>00:02:12,590</start-time>
+        <end-time>00:02:15,750</end-time>
+        <text>This time, I start</text>
+        <text>with the distinct stage</text>
+    </block>
+    
+    <block>
+        <number>37</number>
+        <start-time>00:02:15,750</start-time>
+        <end-time>00:02:18,750</end-time>
+        <text>locations that we</text>
+        <text>calculated up here,</text>
+    </block>
+    
+    <block>
+        <number>38</number>
+        <start-time>00:02:18,980</start-time>
+        <end-time>00:02:22,670</end-time>
+        <text>and I'm going to go</text>
+        <text>in, and I'm actually</text>
+    </block>
+    
+    <block>
+        <number>39</number>
+        <start-time>00:02:22,670</start-time>
+        <end-time>00:02:27,370</end-time>
+        <text>using the XSL sort in</text>
+        <text>here. This made a nice</text>
+    </block>
+    
+    <block>
+        <number>40</number>
+        <start-time>00:02:27,370</start-time>
+        <end-time>00:02:29,650</end-time>
+        <text>safe space for me</text>
+        <text>to work this out and</text>
+    </block>
+    
+    <block>
+        <number>41</number>
+        <start-time>00:02:29,650</start-time>
+        <end-time>00:02:32,310</end-time>
+        <text>check my work to make</text>
+        <text>sure it was it was</text>
+    </block>
+    
+    <block>
+        <number>42</number>
+        <start-time>00:02:32,310</start-time>
+        <end-time>00:02:37,670</end-time>
+        <text>working so I said XSL</text>
+        <text>sort but we're gonna</text>
+    </block>
+    
+    <block>
+        <number>43</number>
+        <start-time>00:02:37,670</start-time>
+        <end-time>00:02:42,490</end-time>
+        <text>do this based on the</text>
+        <text>XML tree we're gonna</text>
+    </block>
+    
+    <block>
+        <number>44</number>
+        <start-time>00:02:42,490</start-time>
+        <end-time>00:02:46,890</end-time>
+        <text>go down find the stages</text>
+        <text>where the current</text>
+    </block>
+    
+    <block>
+        <number>45</number>
+        <start-time>00:02:46,890</start-time>
+        <end-time>00:02:51,770</end-time>
+        <text>one where the where</text>
+        <text>the where attribute</text>
+    </block>
+    
+    <block>
+        <number>46</number>
+        <start-time>00:02:51,770</start-time>
+        <end-time>00:02:54,470</end-time>
+        <text>equals the current</text>
+        <text>value we're gonna go</text>
+    </block>
+    
+    <block>
+        <number>47</number>
+        <start-time>00:02:54,470</start-time>
+        <end-time>00:02:56,630</end-time>
+        <text>reach into the speeches</text>
+        <text>and count them.</text>
+    </block>
+    
+    <block>
+        <number>48</number>
+        <start-time>00:02:56,910</start-time>
+        <end-time>00:03:02,250</end-time>
+        <text>And what xsl sort</text>
+        <text>does is it changes the</text>
+    </block>
+    
+    <block>
+        <number>49</number>
+        <start-time>00:03:02,250</start-time>
+        <end-time>00:03:06,730</end-time>
+        <text>order of the output</text>
+        <text>based on the number</text>
+    </block>
+    
+    <block>
+        <number>50</number>
+        <start-time>00:03:06,730</start-time>
+        <end-time>00:03:10,650</end-time>
+        <text>of counts. So this</text>
+        <text>value here is going to</text>
+    </block>
+    
+    <block>
+        <number>51</number>
+        <start-time>00:03:10,650</start-time>
+        <end-time>00:03:14,250</end-time>
+        <text>determine the order</text>
+        <text>of the output of xsl</text>
+    </block>
+    
+    <block>
+        <number>52</number>
+        <start-time>00:03:14,250</start-time>
+        <end-time>00:03:17,090</end-time>
+        <text>for each. I have to</text>
+        <text>output something or</text>
+    </block>
+    
+    <block>
+        <number>53</number>
+        <start-time>00:03:17,090</start-time>
+        <end-time>00:03:20,150</end-time>
+        <text>this doesn't work. So</text>
+        <text>I say output the value</text>
+    </block>
+    
+    <block>
+        <number>54</number>
+        <start-time>00:03:20,150</start-time>
+        <end-time>00:03:24,130</end-time>
+        <text>of the current</text>
+        <text>location at this point.</text>
+    </block>
+     <block>
+    <number>55</number>
+    <start-time>00:03:24,190</start-time>
+    <end-time>00:03:26,950</end-time>
+    <text>XSL sort is a little</text>
+    <text>bit of magic, just</text>
+  </block>
+
+  <block>
+    <number>56</number>
+    <start-time>00:03:26,950</start-time>
+    <end-time>00:03:29,990</end-time>
+    <text>like XPath sort, but</text>
+    <text>the way it's going</text>
+  </block>
+
+  <block>
+    <number>57</number>
+    <start-time>00:03:29,990</start-time>
+    <end-time>00:03:34,210</end-time>
+    <text>to work is like every</text>
+    <text>time the XSL foreach</text>
+  </block>
+
+  <block>
+    <number>58</number>
+    <start-time>00:03:34,210</start-time>
+    <end-time>00:03:36,230</end-time>
+    <text>runs, it's going</text>
+    <text>to grab a count</text>
+  </block>
+
+  <block>
+    <number>59</number>
+    <start-time>00:03:36,230</start-time>
+    <end-time>00:03:39,770</end-time>
+    <text>value, and the output</text>
+    <text>of this foreach is</text>
+  </block>
+
+  <block>
+    <number>60</number>
+    <start-time>00:03:39,770</start-time>
+    <end-time>00:03:44,170</end-time>
+    <text>going to be determined</text>
+    <text>by the sort order,</text>
+  </block>
+
+  <block>
+    <number>61</number>
+    <start-time>00:03:44,170</start-time>
+    <end-time>00:03:46,850</end-time>
+    <text>which we've now made</text>
+    <text>based on a number.</text>
+  </block>
+
+  <block>
+    <number>62</number>
+    <start-time>00:03:47,310</start-time>
+    <end-time>00:03:51,190</end-time>
+    <text>okay I checked this in</text>
+    <text>an XSL comment because</text>
+  </block>
+
+  <block>
+    <number>63</number>
+    <start-time>00:03:51,190</start-time>
+    <end-time>00:03:53,610</end-time>
+    <text>I really wanted to</text>
+    <text>make sure that I had</text>
+  </block>
+
+  <block>
+    <number>64</number>
+    <start-time>00:03:53,610</start-time>
+    <end-time>00:03:56,550</end-time>
+    <text>a series of strings</text>
+    <text>that were based on my</text>
+  </block>
+
+  <block>
+    <number>65</number>
+    <start-time>00:03:56,550</start-time>
+    <end-time>00:03:59,630</end-time>
+    <text>sort order and I knew</text>
+    <text>that spaceship was</text>
+  </block>
+
+  <block>
+    <number>66</number>
+    <start-time>00:03:59,630</start-time>
+    <end-time>00:04:02,810</end-time>
+    <text>going to be the largest</text>
+    <text>one so when I run this</text>
+  </block>
+
+  <block>
+    <number>67</number>
+    <start-time>00:04:02,810</start-time>
+    <end-time>00:04:04,770</end-time>
+    <text>I'm going to like</text>
+    <text>make sure I save this</text>
+  </block>
+
+  <block>
+    <number>68</number>
+    <start-time>00:04:04,770</start-time>
+    <end-time>00:04:08,150</end-time>
+    <text>and run it I'm going</text>
+    <text>to go take a look at</text>
+  </block>
+
+  <block>
+    <number>69</number>
+    <start-time>00:04:08,150</start-time>
+    <end-time>00:04:12,150</end-time>
+    <text>my output and try to</text>
+    <text>move my zoom screen over</text>
+  </block>
+
+  <block>
+    <number>70</number>
+    <start-time>00:04:12,330</start-time>
+    <end-time>00:04:15,670</end-time>
+    <text>and you can see my</text>
+    <text>sorted stage locations</text>
+  </block>
+
+  <block>
+    <number>71</number>
+    <start-time>00:04:15,670</start-time>
+    <end-time>00:04:19,010</end-time>
+    <text>are spaceship hallway</text>
+    <text>hospital and as soon</text>
+  </block>
+
+  <block>
+    <number>72</number>
+    <start-time>00:04:19,010</start-time>
+    <end-time>00:04:21,490</end-time>
+    <text>as i saw that i knew</text>
+    <text>this was what i wanted</text>
+  </block>
+
+  <block>
+    <number>73</number>
+    <start-time>00:04:21,490</start-time>
+    <end-time>00:04:24,210</end-time>
+    <text>um i wanted i did</text>
+    <text>that i want to look at</text>
+  </block>
+
+  <block>
+    <number>74</number>
+    <start-time>00:04:24,210</start-time>
+    <end-time>00:04:26,250</end-time>
+    <text>my output usually</text>
+    <text>when i'm about to plot</text>
+  </block>
+
+  <block>
+    <number>75</number>
+    <start-time>00:04:26,250</start-time>
+    <end-time>00:04:30,050</end-time>
+    <text>to make sure i i got</text>
+    <text>it right so i may have</text>
+  </block>
+
+  <block>
+    <number>76</number>
+    <start-time>00:04:30,050</start-time>
+    <end-time>00:04:32,830</end-time>
+    <text>been able to i i didn't</text>
+    <text>get this working in</text>
+  </block>
+
+  <block>
+    <number>77</number>
+    <start-time>00:04:32,830</start-time>
+    <end-time>00:04:34,930</end-time>
+    <text>the real for each</text>
+    <text>over this where i'm</text>
+  </block>
+
+  <block>
+    <number>78</number>
+    <start-time>00:04:34,930</start-time>
+    <end-time>00:04:37,510</end-time>
+    <text>plotting the g elements</text>
+    <text>but i did it up here</text>
+  </block>
+
+  <block>
+    <number>79</number>
+    <start-time>00:04:37,510</start-time>
+    <end-time>00:04:40,690</end-time>
+    <text>i'm going to use sorted</text>
+    <text>stage locations now</text>
+  </block>
+
+  <block>
+    <number>80</number>
+    <start-time>00:04:41,190</start-time>
+    <end-time>00:04:44,790</end-time>
+    <text>and when I began</text>
+    <text>plotting I changed this</text>
+  </block>
+
+  <block>
+    <number>81</number>
+    <start-time>00:04:44,790</start-time>
+    <end-time>00:04:48,050</end-time>
+    <text>from distinct stage</text>
+    <text>locations to sorted stage</text>
+  </block>
+
+  <block>
+    <number>82</number>
+    <start-time>00:04:48,050</start-time>
+    <end-time>00:04:50,490</end-time>
+    <text>locations and you'll</text>
+    <text>see that change when</text>
+  </block>
+
+  <block>
+    <number>83</number>
+    <start-time>00:04:50,490</start-time>
+    <end-time>00:04:54,400</end-time>
+    <text>I go to push my code</text>
+    <text>in a few minutes I'll</text>
+  </block>
+
+  <block>
+    <number>84</number>
+    <start-time>00:04:54,870</start-time>
+    <end-time>00:04:57,950</end-time>
+    <text>that this has changed</text>
+    <text>and now it's it's going</text>
+  </block>
+
+  <block>
+    <number>85</number>
+    <start-time>00:04:57,950</start-time>
+    <end-time>00:05:00,750</end-time>
+    <text>to be plotting these</text>
+    <text>in the sort order and</text>
+  </block>
+
+  <block>
+    <number>86</number>
+    <start-time>00:05:00,750</start-time>
+    <end-time>00:05:02,650</end-time>
+    <text>then I keep pretty much</text>
+    <text>everything else the</text>
+  </block>
+
+  <block>
+    <number>87</number>
+    <start-time>00:05:02,650</start-time>
+    <end-time>00:05:06,530</end-time>
+    <text>same except I needed</text>
+    <text>to remember to change</text>
+  </block>
+
+  <block>
+    <number>88</number>
+    <start-time>00:05:06,530</start-time>
+    <end-time>00:05:09,570</end-time>
+    <text>my stack that this like</text>
+    <text>change that variable</text>
+  </block>
+
+  <block>
+    <number>89</number>
+    <start-time>00:05:09,570</start-time>
+    <end-time>00:05:11,750</end-time>
+    <text>down here where I'm</text>
+    <text>doing the stacking</text>
+  </block>
+
+  <block>
+    <number>90</number>
+    <start-time>00:05:11,750</start-time>
+    <end-time>00:05:14,110</end-time>
+    <text>so instead of making</text>
+    <text>that based on distinct</text>
+  </block>
+
+  <block>
+    <number>91</number>
+    <start-time>00:05:14,110</start-time>
+    <end-time>00:05:16,730</end-time>
+    <text>stage locations I now</text>
+    <text>needed to use my new</text>
+  </block>
+
+  <block>
+    <number>92</number>
+    <start-time>00:05:16,730</start-time>
+    <end-time>00:05:19,350</end-time>
+    <text>variable as soon as</text>
+    <text>I did that I get the</text>
+  </block>
+
+  <block>
+    <number>93</number>
+    <start-time>00:05:19,350</start-time>
+    <end-time>00:05:24,270</end-time>
+    <text>output that I want and</text>
+    <text>I will switch my share</text>
+  </block>
+
+  <block>
+    <number>94</number>
+    <start-time>00:05:24,270</start-time>
+    <end-time>00:05:28,420</end-time>
+    <text>again to just show this</text>
+    <text>to you it all works</text>
+  </block>
+
+  <block>
+    <number>95</number>
+    <start-time>00:05:28,420</start-time>
+    <end-time>00:05:33,360</end-time>
+    <text>this is all working</text>
+    <text>the way I intended and</text>
+  </block>
+
+  <block>
+    <number>96</number>
+    <start-time>00:05:33,530</start-time>
+    <end-time>00:05:36,510</end-time>
+    <text>we've got the output</text>
+    <text>coming out sorting is</text>
+  </block>
+
+  <block>
+    <number>97</number>
+    <start-time>00:05:36,510</start-time>
+    <end-time>00:05:39,050</end-time>
+    <text>a little tricky but</text>
+    <text>now that you have one</text>
+  </block>
+
+  <block>
+    <number>98</number>
+    <start-time>00:05:39,050</start-time>
+    <end-time>00:05:42,510</end-time>
+    <text>that's working to use</text>
+    <text>as a model I hope that</text>
+  </block>
+
+  <block>
+    <number>99</number>
+    <start-time>00:05:42,510</start-time>
+    <end-time>00:05:44,350</end-time>
+    <text>you'll find this</text>
+    <text>helpful in your own code</text>
+  </block>
+
+  <block>
+    <number>100</number>
+    <start-time>00:05:44,350</start-time>
+    <end-time>00:05:48,350</end-time>
+    <text>okay so two videos</text>
+    <text>today and I hope this is</text>
+  </block>
+    <block>
+    <number>101</number>
+    <start-time>00:05:48,350</start-time>
+    <end-time>00:05:51,310</end-time>
+    <text>useful to you good luck</text>
+    <text>with the assignment</text>
+  </block>
+
+  <block>
+    <number>102</number>
+    <start-time>00:05:51,310</start-time>
+    <end-time>00:05:54,090</end-time>
+    <text>for next week I'm gonna</text>
+    <text>quickly look at that</text>
+  </block>
+
+  <block>
+    <number>103</number>
+    <start-time>00:05:54,090</start-time>
+    <end-time>00:05:56,570</end-time>
+    <text>while I'm on the zoom</text>
+    <text>with you let's go</text>
+  </block>
+
+  <block>
+    <number>104</number>
+    <start-time>00:05:56,570</start-time>
+    <end-time>00:06:02,470</end-time>
+    <text>back here take a look</text>
+    <text>at assignments so this</text>
+  </block>
+
+  <block>
+    <number>105</number>
+    <start-time>00:06:02,470</start-time>
+    <end-time>00:06:04,990</end-time>
+    <text>is a little little</text>
+    <text>exercise for Monday to</text>
+  </block>
+
+  <block>
+    <number>106</number>
+    <start-time>00:06:04,990</start-time>
+    <end-time>00:06:07,030</end-time>
+    <text>introduce the new</text>
+    <text>regular expressions unit</text>
+  </block>
+
+  <block>
+    <number>107</number>
+    <start-time>00:06:07,030</start-time>
+    <end-time>00:06:09,610</end-time>
+    <text>but this very last</text>
+    <text>thing it's like kind of</text>
+  </block>
+
+  <block>
+    <number>108</number>
+    <start-time>00:06:09,610</start-time>
+    <end-time>00:06:12,470</end-time>
+    <text>our last hurrah for</text>
+    <text>this unit plotting svg</text>
+  </block>
+
+  <block>
+    <number>109</number>
+    <start-time>00:06:12,470</start-time>
+    <end-time>00:06:16,310</end-time>
+    <text>with xslt it's the small</text>
+    <text>test project i'm going</text>
+  </block>
+
+  <block>
+    <number>110</number>
+    <start-time>00:06:16,310</start-time>
+    <end-time>00:06:20,850</end-time>
+    <text>to invite you to go</text>
+    <text>over um choose some</text>
+  </block>
+
+  <block>
+    <number>111</number>
+    <start-time>00:06:20,850</start-time>
+    <end-time>00:06:24,750</end-time>
+    <text>xml to start with um</text>
+    <text>i was suggesting this</text>
+  </block>
+
+  <block>
+    <number>112</number>
+    <start-time>00:06:24,750</start-time>
+    <end-time>00:06:28,150</end-time>
+    <text>um like working the</text>
+    <text>vogue project team could</text>
+  </block>
+
+  <block>
+    <number>113</number>
+    <start-time>00:06:28,150</start-time>
+    <end-time>00:06:30,370</end-time>
+    <text>work with a collection</text>
+    <text>of their files but</text>
+  </block>
+
+  <block>
+    <number>114</number>
+    <start-time>00:06:30,370</start-time>
+    <end-time>00:06:33,410</end-time>
+    <text>you can kind of see um</text>
+    <text>some interesting things</text>
+  </block>
+
+  <block>
+    <number>115</number>
+    <start-time>00:06:33,410</start-time>
+    <end-time>00:06:38,270</end-time>
+    <text>here coded with rs you</text>
+    <text>could count materials</text>
+  </block>
+
+  <block>
+    <number>116</number>
+    <start-time>00:06:38,270</start-time>
+    <end-time>00:06:42,690</end-time>
+    <text>um fabrics garments</text>
+    <text>like find something</text>
+  </block>
+
+  <block>
+    <number>117</number>
+    <start-time>00:06:42,690</start-time>
+    <end-time>00:06:45,750</end-time>
+    <text>get counts of things</text>
+    <text>and count how many</text>
+  </block>
+
+  <block>
+    <number>118</number>
+    <start-time>00:06:45,750</start-time>
+    <end-time>00:06:47,930</end-time>
+    <text>there are of that type</text>
+    <text>so i'd suggest maybe</text>
+  </block>
+
+  <block>
+    <number>119</number>
+    <start-time>00:06:47,930</start-time>
+    <end-time>00:06:51,690</end-time>
+    <text>looking at colors or</text>
+    <text>something because this</text>
+  </block>
+
+  <block>
+    <number>120</number>
+    <start-time>00:06:51,690</start-time>
+    <end-time>00:06:54,470</end-time>
+    <text>team was really interested</text>
+    <text>in the colors like</text>
+  </block>
+
+  <block>
+    <number>121</number>
+    <start-time>00:06:54,470</start-time>
+    <end-time>00:06:56,750</end-time>
+    <text>what colors were</text>
+    <text>popular in a given era.</text>
+  </block>
+
+  <block>
+    <number>122</number>
+    <start-time>00:06:57,350</start-time>
+    <end-time>00:07:01,990</end-time>
+    <text>And you can count</text>
+    <text>the number of</text>
+  </block>
+
+  <block>
+    <number>123</number>
+    <start-time>00:07:01,990</start-time>
+    <end-time>00:07:04,670</end-time>
+    <text>things of a kind</text>
+    <text>that have variety,</text>
+  </block>
+
+  <block>
+    <number>124</number>
+    <start-time>00:07:04,670</start-time>
+    <end-time>00:07:06,290</end-time>
+    <text>like what are the</text>
+    <text>different values</text>
+  </block>
+
+  <block>
+    <number>125</number>
+    <start-time>00:07:06,290</start-time>
+    <end-time>00:07:09,070</end-time>
+    <text>of color in this</text>
+    <text>chunk of code.</text>
+  </block>
+
+  <block>
+    <number>126</number>
+    <start-time>00:07:09,310</start-time>
+    <end-time>00:07:11,490</end-time>
+    <text>You can, if you're ready</text>
+    <text></text>
+  </block>
+
+  <block>
+    <number>127</number>
+    <start-time>00:07:11,490</start-time>
+    <end-time>00:07:13,070</end-time>
+    <text>to process a collection,</text>
+    <text></text>
+  </block>
+
+  <block>
+    <number>128</number>
+    <start-time>00:07:13,750</start-time>
+    <end-time>00:07:17,070</end-time>
+    <text>you could process the</text>
+    <text>collection of these</text>
+  </block>
+
+  <block>
+    <number>129</number>
+    <start-time>00:07:17,070</start-time>
+    <end-time>00:07:19,810</end-time>
+    <text>TEI files. I'm going</text>
+    <text>to prepare a mock-up of</text>
+  </block>
+
+  <block>
+    <number>130</number>
+    <start-time>00:07:19,810</start-time>
+    <end-time>00:07:21,850</end-time>
+    <text>that this weekend so</text>
+    <text>that you know how to</text>
+  </block>
+
+  <block>
+    <number>131</number>
+    <start-time>00:07:21,850</start-time>
+    <end-time>00:07:24,330</end-time>
+    <text>work with a collection</text>
+    <text>of XML instead of just</text>
+  </block>
+
+  <block>
+    <number>132</number>
+    <start-time>00:07:24,330</start-time>
+    <end-time>00:07:28,190</end-time>
+    <text>one file to make an</text>
+    <text>SVG plot but it's gonna</text>
+  </block>
+
+  <block>
+    <number>133</number>
+    <start-time>00:07:28,190</start-time>
+    <end-time>00:07:30,070</end-time>
+    <text>work essentially the</text>
+    <text>same way you sort of</text>
+  </block>
+
+  <block>
+    <number>134</number>
+    <start-time>00:07:30,070</start-time>
+    <end-time>00:07:33,830</end-time>
+    <text>drill into these files</text>
+    <text>count the number of</text>
+  </block>
+
+  <block>
+    <number>135</number>
+    <start-time>00:07:33,830</start-time>
+    <end-time>00:07:37,750</end-time>
+    <text>things that like that</text>
+    <text>represent a color and</text>
+  </block>
+
+  <block>
+    <number>136</number>
+    <start-time>00:07:37,750</start-time>
+    <end-time>00:07:42,510</end-time>
+    <text>output them so we'll</text>
+    <text>try that another option</text>
+  </block>
+
+  <block>
+    <number>137</number>
+    <start-time>00:07:42,510</start-time>
+    <end-time>00:07:44,910</end-time>
+    <text>you could look at is</text>
+    <text>the pokey this Pokemon</text>
+  </block>
+
+  <block>
+    <number>138</number>
+    <start-time>00:07:44,910</start-time>
+    <end-time>00:07:49,730</end-time>
+    <text>moves file which let</text>
+    <text>me see where did I put</text>
+  </block>
+
+  <block>
+    <number>139</number>
+    <start-time>00:07:49,730</start-time>
+    <end-time>00:07:55,390</end-time>
+    <text>that that's going to be</text>
+    <text>in what it's probably</text>
+  </block>
+
+  <block>
+    <number>140</number>
+    <start-time>00:07:55,390</start-time>
+    <end-time>00:08:02,950</end-time>
+    <text>faster for me to get</text>
+    <text>to this fire text</text>
+  </block>
+
+  <block>
+    <number>141</number>
+    <start-time>00:08:02,950</start-time>
+    <end-time>00:08:06,190</end-time>
+    <text>analysis hub if I do</text>
+    <text>that from here I can just</text>
+  </block>
+
+  <block>
+    <number>142</number>
+    <start-time>00:08:06,190</start-time>
+    <end-time>00:08:08,050</end-time>
+    <text>show you where this</text>
+    <text>is my stuff's always</text>
+  </block>
+
+  <block>
+    <number>143</number>
+    <start-time>00:08:08,050</start-time>
+    <end-time>00:08:12,530</end-time>
+    <text>in class examples and</text>
+    <text>you will find an XSLT</text>
+  </block>
+
+  <block>
+    <number>144</number>
+    <start-time>00:08:12,530</start-time>
+    <end-time>00:08:16,030</end-time>
+    <text>to SVG here's a little</text>
+    <text>Pokemon on moves folder</text>
+  </block>
+
+  <block>
+    <number>145</number>
+    <start-time>00:08:16,030</start-time>
+    <end-time>00:08:19,850</end-time>
+    <text>and there's some pretty</text>
+    <text>simple xml in here</text>
+  </block>
+
+  <block>
+    <number>146</number>
+    <start-time>00:08:19,850</start-time>
+    <end-time>00:08:25,030</end-time>
+    <text>where every move element</text>
+    <text>has categories and</text>
+  </block>
+
+  <block>
+    <number>147</number>
+    <start-time>00:08:25,030</start-time>
+    <end-time>00:08:29,330</end-time>
+    <text>you could count up the</text>
+    <text>number of different</text>
+  </block>
+
+  <block>
+    <number>148</number>
+    <start-time>00:08:29,330</start-time>
+    <end-time>00:08:31,510</end-time>
+    <text>things that are like</text>
+    <text>that share the same</text>
+  </block>
+
+  <block>
+    <number>149</number>
+    <start-time>00:08:31,510</start-time>
+    <end-time>00:08:35,170</end-time>
+    <text>category um get a count</text>
+    <text>of those things and</text>
+  </block>
+
+  <block>
+    <number>150</number>
+    <start-time>00:08:35,170</start-time>
+    <end-time>00:08:38,310</end-time>
+    <text>then try to plot them</text>
+    <text>you know you know as the</text>
+  </block>
+
+  <block>
+    <number>151</number>
+    <start-time>00:08:38,310</start-time>
+    <end-time>00:08:40,910</end-time>
+    <text>parts that make a</text>
+    <text>whole these are um this</text>
+  </block>
+
+  <block>
+    <number>152</number>
+    <start-time>00:08:40,910</start-time>
+    <end-time>00:08:43,090</end-time>
+    <text>is this is some good</text>
+    <text>data to help show that</text>
+  </block>
+
+  <block>
+    <number>153</number>
+    <start-time>00:08:43,090</start-time>
+    <end-time>00:08:45,630</end-time>
+    <text>so mess around you</text>
+    <text>don't have to use these</text>
+  </block>
+
+  <block>
+    <number>154</number>
+    <start-time>00:08:45,630</start-time>
+    <end-time>00:08:47,710</end-time>
+    <text>two files but I'm</text>
+    <text>suggesting that they might</text>
+  </block>
+
+  <block>
+    <number>155</number>
+    <start-time>00:08:47,710</start-time>
+    <end-time>00:08:52,070</end-time>
+    <text>be good for doing a</text>
+    <text>quick visual analysis</text>
+  </block>
+
+  <block>
+    <number>156</number>
+    <start-time>00:08:52,070</start-time>
+    <end-time>00:08:57,550</end-time>
+    <text>and see if you can make</text>
+    <text>some kind of SVG plot</text>
+  </block>
+
+  <block>
+    <number>157</number>
+    <start-time>00:08:57,550</start-time>
+    <end-time>00:08:59,750</end-time>
+    <text>that plots the parts</text>
+    <text>of a complete whole.</text>
+  </block>
+
+  <block>
+    <number>158</number>
+    <start-time>00:09:00,210</start-time>
+    <end-time>00:09:03,650</end-time>
+      <text>Alright, that's it.</text>
+      <text>I'm happy that finally</text>
+  </block>
+
+  <block>
+    <number>159</number>
+    <start-time>00:09:03,650</start-time>
+    <end-time>00:09:06,790</end-time>
+      <text>worked and I will</text>
+      <text>see you next week.!</text>
+  </block>
+</transcript>
